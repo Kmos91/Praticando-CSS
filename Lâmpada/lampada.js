@@ -23,7 +23,6 @@ function islampaBroken(){
     lampa.src = './imagens/lampada-quebrada.jpg';
 }
 
-
 /*Chamada de eventos*/
 turnOn.addEventListener('click', lampaOn);
 turnOff.addEventListener('click', lampaOff);
